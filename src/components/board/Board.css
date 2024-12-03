@@ -1,0 +1,69 @@
+/* Board layout */
+.board-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    width: 100vw;
+    /* Full window width */
+    height: 100vh;
+    /* Full window height */
+    /* Adjust the number of columns as needed */
+    gap: 5px;
+    padding: 0px;
+    background: url("../../assets/map.webp") no-repeat center center;
+    background-size: cover;
+}
+
+/* Tile appearance */
+.tile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.5);
+    /* Semi-transparent for better map visibility */
+    font-size: 14px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+/* Tile types */
+.tile.start {
+    background-color: #d4edda;
+    border-color: #28a745;
+}
+
+.tile.neutral {
+    background-color: #e2e3e5;
+    border-color: #6c757d;
+}
+
+.tile.obstacle {
+    background-color: #f8d7da;
+    border-color: #dc3545;
+}
+
+.tile.reward {
+    background-color: #fff3cd;
+    border-color: #ffc107;
+}
+
+.tile.finish {
+    background-color: #cce5ff;
+    border-color: #007bff;
+}
+
+/* Highlight active tile */
+.tile.active {
+    border: 2px solid #007bff;
+    box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+}
+
+/* Player token */
+.player-token {
+    font-size: 24px;
+    margin-bottom: 5px;
+}

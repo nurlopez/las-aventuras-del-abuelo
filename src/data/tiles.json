@@ -7,20 +7,198 @@
         },
         {
             "id": 2,
-            "type": "event",
-            "theme": "jungle",
-            "description": "You see a hornbill flying by."
+            "type": "neutral",
+            "description": "You spot a hornbill flying overhead."
+        },
+        {
+            "id": 3,
+            "type": "neutral",
+            "description": "Jungle sounds fill the air around you."
+        },
+        {
+            "id": 4,
+            "type": "obstacle",
+            "description": "A fallen tree blocks your path. Skip a turn."
+        },
+        {
+            "id": 5,
+            "type": "reward",
+            "description": "You find a hidden treasure chest! Move forward 2 tiles."
+        },
+        {
+            "id": 6,
+            "type": "neutral",
+            "description": "A calm river flows nearby."
+        },
+        {
+            "id": 7,
+            "type": "neutral",
+            "description": "You notice rare orchids blooming along the path."
+        },
+        {
+            "id": 8,
+            "type": "obstacle",
+            "description": "A sudden rainstorm slows you down. Move back 1 tile."
+        },
+        {
+            "id": 9,
+            "type": "neutral",
+            "description": "You meet a friendly local guide who shares stories of the jungle."
+        },
+        {
+            "id": 10,
+            "type": "reward",
+            "description": "You discover an ancient artifact. Advance 1 tile."
+        },
+        {
+            "id": 11,
+            "type": "neutral",
+            "description": "You hear the distant call of a gibbon."
+        },
+        {
+            "id": 12,
+            "type": "obstacle",
+            "description": "You lose your way for a moment. Skip a turn."
+        },
+        {
+            "id": 13,
+            "type": "neutral",
+            "description": "You cross a rickety wooden bridge over a stream."
+        },
+        {
+            "id": 14,
+            "type": "reward",
+            "description": "You find a map of the area. Move forward 2 tiles."
+        },
+        {
+            "id": 15,
+            "type": "neutral",
+            "description": "You see a herd of elephants in the distance."
+        },
+        {
+            "id": 16,
+            "type": "obstacle",
+            "description": "A swarm of mosquitoes forces you to stop. Skip a turn."
+        },
+        {
+            "id": 17,
+            "type": "neutral",
+            "description": "You gather fresh fruits from a nearby tree."
         },
         {
             "id": 18,
-            "type": "event",
-            "theme": "lake",
-            "description": "Torrential rains delay your progress. Lose a turn."
+            "type": "obstacle",
+            "description": "A sudden river flood forces you to move back 2 tiles."
+        },
+        {
+            "id": 19,
+            "type": "neutral",
+            "description": "You find a quiet clearing to rest."
+        },
+        {
+            "id": 20,
+            "type": "reward",
+            "description": "You discover a secret path! Move forward 3 tiles."
+        },
+        {
+            "id": 21,
+            "type": "neutral",
+            "description": "You spot colorful butterflies dancing in the air."
+        },
+        {
+            "id": 22,
+            "type": "neutral",
+            "description": "A gentle breeze cools you as you walk."
+        },
+        {
+            "id": 23,
+            "type": "obstacle",
+            "description": "A wild boar startles you! Skip a turn."
+        },
+        {
+            "id": 24,
+            "type": "neutral",
+            "description": "You find a peaceful lake to admire."
+        },
+        {
+            "id": 25,
+            "type": "reward",
+            "description": "A friendly local shares some valuable advice. Move forward 1 tile."
+        },
+        {
+            "id": 26,
+            "type": "neutral",
+            "description": "You climb a small hill for a better view."
+        },
+        {
+            "id": 27,
+            "type": "neutral",
+            "description": "You hear the chirping of exotic birds."
+        },
+        {
+            "id": 28,
+            "type": "obstacle",
+            "description": "You slip on muddy terrain. Move back 1 tile."
+        },
+        {
+            "id": 29,
+            "type": "neutral",
+            "description": "You come across a vibrant field of flowers."
+        },
+        {
+            "id": 30,
+            "type": "reward",
+            "description": "You find an old diary detailing jungle expeditions. Move forward 1 tile."
+        },
+        {
+            "id": 31,
+            "type": "neutral",
+            "description": "You marvel at the towering rainforest trees."
+        },
+        {
+            "id": 32,
+            "type": "obstacle",
+            "description": "A group of monkeys steals your food. Skip a turn."
+        },
+        {
+            "id": 33,
+            "type": "neutral",
+            "description": "You discover a hidden cave entrance."
+        },
+        {
+            "id": 34,
+            "type": "reward",
+            "description": "You find a shortcut through the jungle. Move forward 2 tiles."
+        },
+        {
+            "id": 35,
+            "type": "neutral",
+            "description": "You drink from a fresh jungle spring."
+        },
+        {
+            "id": 36,
+            "type": "obstacle",
+            "description": "A snake crosses your path. Move back 1 tile."
+        },
+        {
+            "id": 37,
+            "type": "neutral",
+            "description": "You enjoy a quiet moment under a giant fern."
+        },
+        {
+            "id": 38,
+            "type": "neutral",
+            "description": "You hear the distant roar of a waterfall."
+        },
+        {
+            "id": 39,
+            "type": "reward",
+            "description": "You spot a rare golden bird. Move forward 1 tile."
         },
         {
             "id": 40,
             "type": "finish",
-            "description": "You’ve completed the journey!"
+            "description": "You’ve completed the journey and reached the camp!"
         }
     ]
 }
