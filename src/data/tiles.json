@@ -1,0 +1,26 @@
+{
+    "tiles": [
+        {
+            "id": 1,
+            "type": "start",
+            "description": "Start your journey in Sarawak!"
+        },
+        {
+            "id": 2,
+            "type": "event",
+            "theme": "jungle",
+            "description": "You see a hornbill flying by."
+        },
+        {
+            "id": 18,
+            "type": "event",
+            "theme": "lake",
+            "description": "Torrential rains delay your progress. Lose a turn."
+        },
+        {
+            "id": 40,
+            "type": "finish",
+            "description": "You’ve completed the journey!"
+        }
+    ]
+}
