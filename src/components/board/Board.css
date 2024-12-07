@@ -1,0 +1,65 @@
+/* Board layout */
+.board-container {
+    align-self: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-auto-rows: 1fr;
+    width: 100%;
+    height: 100%;
+    gap: 5px;
+    overflow: hidden;
+}
+
+/* Tile appearance */
+.tile {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.8);
+    font-size: 14px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+/* Tile types */
+.tile.start {
+    background-color: #d4edda;
+    border-color: #28a745;
+}
+
+.tile.neutral {
+    background-color: #e2e3e590;
+    border-color: #6c757d;
+}
+
+.tile.obstacle {
+    background-color: #f8d7da90;
+    border-color: #dc3545;
+}
+
+.tile.reward {
+    background-color: #fff3cd90;
+    border-color: #ffc107;
+}
+
+.tile.finish {
+    background-color: #cce5ff;
+    border-color: #007bff;
+}
+
+/* Highlight active tile */
+.tile.active {
+    border: 2px solid #79cd1b;
+    box-shadow: 0 0 10px rgba(2, 70, 19, 0.547);
+}
+
+/* Player token */
+.player-token {
+    font-size: 24px;
+    align-self: center;
+    margin-bottom: 5px;
+}
