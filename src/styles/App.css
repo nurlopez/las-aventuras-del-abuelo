@@ -26,15 +26,17 @@ h2 {
     text-align: left;
 }
 
-.event-message {
-    font-size: 1.2em;
-    color: #ff4500;
-}
-
 p {
     font-size: 1em;
     color: white;
 }
+
+.event-message {
+    color: black;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
 
 .info-container {
     display: flex;

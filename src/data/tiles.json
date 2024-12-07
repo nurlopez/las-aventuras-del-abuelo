@@ -21,32 +21,32 @@
         {
             "id": 4,
             "type": "obstacle",
-            "description": "A fallen tree blocks your path. Skip a turn.",
+            "description": "A fallen tree blocks your path. \nSkip a turn.",
             "effect": "skip"
         },
         {
             "id": 5,
             "type": "reward",
-            "description": "You find a hidden treasure chest! Move forward 2 tiles.",
-            "effect": "forward:2"
+            "description": "You find a hidden treasure chest! Move forward 5 tiles.",
+            "effect": "forward:5"
         },
         {
             "id": 6,
             "type": "neutral",
-            "description": "A calm river flows nearby.",
-            "effect": null
+            "description": "A calm river flows nearby. Move forward 2 tiles.",
+            "effect": "forward:2"
         },
         {
             "id": 7,
             "type": "neutral",
-            "description": "You notice rare orchids blooming along the path.",
-            "effect": null
+            "description": "You notice rare orchids blooming along the path. Move back 2 tiles.",
+            "effect": "backward:2"
         },
         {
             "id": 8,
             "type": "obstacle",
             "description": "A sudden rainstorm slows you down. Move back 1 tile.",
-            "effect": "backward:1"
+            "effect": null
         },
         {
             "id": 9,
@@ -63,7 +63,7 @@
         {
             "id": 11,
             "type": "neutral",
-            "description": "You hear the distant call of a gibbon.",
+            "description": "You hear the distant call of a gibbon. ",
             "effect": null
         },
         {
