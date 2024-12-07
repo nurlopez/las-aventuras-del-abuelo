@@ -236,6 +236,246 @@
         },
         {
             "id": 40,
+            "type": "neutral",
+            "description": "You hear the distant roar of a waterfall.",
+            "effect": null
+        },
+        {
+            "id": 41,
+            "type": "neutral",
+            "description": "You marvel at the towering rainforest trees.",
+            "effect": null
+        },
+        {
+            "id": 42,
+            "type": "obstacle",
+            "description": "A group of monkeys steals your food. Skip a turn.",
+            "effect": "skip"
+        },
+        {
+            "id": 43,
+            "type": "neutral",
+            "description": "You discover a hidden cave entrance.",
+            "effect": null
+        },
+        {
+            "id": 44,
+            "type": "reward",
+            "description": "You find a shortcut through the jungle. Move forward 2 tiles.",
+            "effect": "forward:2"
+        },
+        {
+            "id": 45,
+            "type": "neutral",
+            "description": "You drink from a fresh jungle spring.",
+            "effect": null
+        },
+        {
+            "id": 46,
+            "type": "obstacle",
+            "description": "A snake crosses your path. Move back 1 tile.",
+            "effect": "backward:1"
+        },
+        {
+            "id": 47,
+            "type": "neutral",
+            "description": "You enjoy a quiet moment under a giant fern.",
+            "effect": null
+        },
+        {
+            "id": 48,
+            "type": "neutral",
+            "description": "You hear the distant roar of a waterfall.",
+            "effect": null
+        },
+        {
+            "id": 49,
+            "type": "reward",
+            "description": "You spot a rare golden bird. Move forward 1 tile.",
+            "effect": "forward:1"
+        },
+        {
+            "id": 50,
+            "type": "neutral",
+            "description": "You hear the distant roar of a waterfall.",
+            "effect": null
+        },
+        {
+            "id": 51,
+            "type": "neutral",
+            "description": "You spot a hornbill flying overhead.",
+            "effect": null
+        },
+        {
+            "id": 52,
+            "type": "obstacle",
+            "description": "A group of monkeys steals your food. Skip a turn.",
+            "effect": "skip"
+        },
+        {
+            "id": 53,
+            "type": "neutral",
+            "description": "You discover a hidden cave entrance.",
+            "effect": null
+        },
+        {
+            "id": 54,
+            "type": "reward",
+            "description": "You find a shortcut through the jungle. Move forward 2 tiles.",
+            "effect": "forward:2"
+        },
+        {
+            "id": 55,
+            "type": "neutral",
+            "description": "You drink from a fresh jungle spring.",
+            "effect": null
+        },
+        {
+            "id": 56,
+            "type": "obstacle",
+            "description": "A snake crosses your path. Move back 1 tile.",
+            "effect": "backward:1"
+        },
+        {
+            "id": 57,
+            "type": "neutral",
+            "description": "You enjoy a quiet moment under a giant fern.",
+            "effect": null
+        },
+        {
+            "id": 58,
+            "type": "neutral",
+            "description": "You hear the distant roar of a waterfall.",
+            "effect": null
+        },
+        {
+            "id": 59,
+            "type": "reward",
+            "description": "You spot a rare golden bird. Move forward 1 tile.",
+            "effect": "forward:1"
+        },
+        {
+            "id": 60,
+            "type": "obstacle",
+            "description": "You hear the distant roar of a waterfall.",
+            "effect": "backward:1"
+        },
+        {
+            "id": 61,
+            "type": "neutral",
+            "description": "You spot a hornbill flying overhead.",
+            "effect": null
+        },
+        {
+            "id": 62,
+            "type": "obstacle",
+            "description": "A group of monkeys steals your food. Skip a turn.",
+            "effect": "skip"
+        },
+        {
+            "id": 63,
+            "type": "neutral",
+            "description": "You discover a hidden cave entrance.",
+            "effect": null
+        },
+        {
+            "id": 64,
+            "type": "reward",
+            "description": "You find a shortcut through the jungle. Move forward 2 tiles.",
+            "effect": "forward:2"
+        },
+        {
+            "id": 65,
+            "type": "neutral",
+            "description": "You drink from a fresh jungle spring.",
+            "effect": null
+        },
+        {
+            "id": 66,
+            "type": "obstacle",
+            "description": "A snake crosses your path. Move back 1 tile.",
+            "effect": "backward:1"
+        },
+        {
+            "id": 67,
+            "type": "neutral",
+            "description": "You enjoy a quiet moment under a giant fern.",
+            "effect": null
+        },
+        {
+            "id": 68,
+            "type": "neutral",
+            "description": "You hear the distant roar of a waterfall.",
+            "effect": null
+        },
+        {
+            "id": 69,
+            "type": "reward",
+            "description": "You spot a rare golden bird. Move forward 1 tile.",
+            "effect": "forward:1"
+        },
+        {
+            "id": 70,
+            "type": "neutral",
+            "description": "You hear the distant roar of a waterfall.",
+            "effect": null
+        },
+        {
+            "id": 71,
+            "type": "neutral",
+            "description": "You hear the distant roar of a waterfall.",
+            "effect": null
+        },
+        {
+            "id": 72,
+            "type": "obstacle",
+            "description": "A group of monkeys steals your food. Skip a turn.",
+            "effect": "skip"
+        },
+        {
+            "id": 73,
+            "type": "neutral",
+            "description": "You discover a hidden cave entrance.",
+            "effect": null
+        },
+        {
+            "id": 74,
+            "type": "reward",
+            "description": "You find a shortcut through the jungle. Move forward 2 tiles.",
+            "effect": "forward:2"
+        },
+        {
+            "id": 75,
+            "type": "neutral",
+            "description": "You drink from a fresh jungle spring.",
+            "effect": null
+        },
+        {
+            "id": 76,
+            "type": "obstacle",
+            "description": "A snake crosses your path. Move back 1 tile.",
+            "effect": "backward:1"
+        },
+        {
+            "id": 77,
+            "type": "neutral",
+            "description": "You enjoy a quiet moment under a giant fern.",
+            "effect": null
+        },
+        {
+            "id": 78,
+            "type": "neutral",
+            "description": "You hear the distant roar of a waterfall.",
+            "effect": null
+        },
+        {
+            "id": 79,
+            "type": "reward",
+            "description": "You spot a rare golden bird. Move forward 1 tile.",
+            "effect": "forward:1"
+        },
+        {
+            "id": 80,
             "type": "finish",
             "description": "You’ve completed the journey and reached the camp!"
         }

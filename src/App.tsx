@@ -1,6 +1,12 @@
 import React, { useState } from "react";
+
+
 import Board from "./components/board/Board";
 import Dice from "./components/dice/Dice";
+import papi from "./assets/old-explorer.webp";
+
+import "./styles/App.css";
+
 
 function App() {
     const [playerPosition, setPlayerPosition] = useState(1);
@@ -43,11 +49,25 @@ function App() {
 
     return (
         <div className="App">
-            <h1>Las Aventuras del Abuelo</h1>
-            <Board playerPosition={playerPosition} onTileEvent={handleTileEvent} />
-            <Dice onRoll={handleDiceRoll} />
-            <p>Current Position: {playerPosition}</p>
-            {currentEvent && <p className="event-message">{currentEvent}</p>}
+            <div className="info-container" >
+                <div>
+                    <h1>Las aventuras del abuelo</h1>
+                    <h2>En búsqueda del tucán perdido</h2>
+                </div>
+
+                <div>
+                    <div className="dice-container">
+                        <Dice onRoll={handleDiceRoll} />
+                    </div>
+                    <p>Current Position: {playerPosition}</p>
+                </div>
+                {currentEvent && <p className="event-message">{currentEvent}</p>}
+                <img className='papi' src={papi} alt="papi" />
+            </div>
+
+            <div className="board-container">
+                <Board playerPosition={playerPosition} onTileEvent={handleTileEvent} />
+            </div>
         </div>
     );
 }
