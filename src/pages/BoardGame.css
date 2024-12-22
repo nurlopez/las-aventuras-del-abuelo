@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100..900;1,100..900&family=Special+Elite&display=swap');
+
+.BoardGame {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-size: cover;
+    background-image: url('../assets/borneo-foto.jpg');
+    font-family: 'Chivo', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.3em;
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+}
+
+.back-link {
+    position: absolute;
+    bottom: 16px;
+    left: 16px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+.info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 20px;
+    align-items: center;
+    width: 500px;
+    height: 100%;
+    margin-left: 24px;
+}
+
+.tag-title {
+    font-size: 0.8 em;
+    font-family: 'Special Elite';
+    color: white;
+    text-align: center;
+    padding: 4px 0px 2px 0px;
+    background-color: black;
+    border-radius: 2px;
+}
+
+.subtitle {
+    font-size: 0.8em;
+    color: white;
+    text-align: center;
+    line-height: 1.2em;
+    font-family: 'Special Elite';
+}
+
+.abuelo {
+    width: 70%;
+    margin-bottom: 8px;
+    align-self: flex-end;
+}
+
+.markdown-content {
+    text-align: left;
+    color: #333;
+    font-family: 'Arial, sans-serif';
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3 {
+    color: #333;
+    text-align: center;
+}

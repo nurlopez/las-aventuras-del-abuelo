@@ -12,14 +12,18 @@
 }
 
 .modal-content {
-    background: white;
+    background: transparent;
     border-radius: 8px;
     padding: 20px;
+    margin-left: 56px;
     position: relative;
-    max-width: 400px;
-    width: 90%;
+    width: 353px;
+    max-height: 528px;
+    /* width: 90%; */
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-    text-align: center;
+    transform: rotate(90ged);
+    background-image: url('../../assets/diary_page.png');
+    background-size: cover;
 }
 
 .modal-close {
