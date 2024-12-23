@@ -16,7 +16,10 @@ const Modal: React.FC<ModalProps> = ({ isOpen, onClose, children }) => {
                 <button className="modal-close" onClick={onClose}>
                     &times;
                 </button>
-                {children}
+                {/* Wrap the children in a scrollable container */}
+                <div className="modal-body">
+                    {children}
+                </div>
             </div>
         </div>
     );
