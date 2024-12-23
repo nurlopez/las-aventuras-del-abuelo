@@ -21,7 +21,7 @@
             "title": "Pre-travesía",
             "type": "neutral",
             "description": "El primer paso fue buscar ayuda para la organización y buenos mapas. Visité a Stanley Malang, pero tras semanas de intentos, confirmó que no podía ayudarnos. Mientras lidiábamos con el primer revés, recordé a Joseph, un kenyah del _Ulu_ Baram. Encontrarlo sería clave, pero no iba a ser fácil.",
-            "effectDescription": "Retrocede 1 casilla.",
+            "effectDescription": "**Retrocede 1 casilla.**",
             "effect": "backward:1"
         },
         {
