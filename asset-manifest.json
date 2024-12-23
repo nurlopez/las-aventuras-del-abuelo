@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/las-aventuras-del-abuelo/static/css/main.fe258d5f.css",
+    "main.js": "/las-aventuras-del-abuelo/static/js/main.d50c67ec.js",
+    "static/js/453.7f8d9670.chunk.js": "/las-aventuras-del-abuelo/static/js/453.7f8d9670.chunk.js",
+    "static/media/explorer_sitting.png": "/las-aventuras-del-abuelo/static/media/explorer_sitting.02b4a001582bcb652eb8.png",
+    "static/media/diary_page.png": "/las-aventuras-del-abuelo/static/media/diary_page.5195a260292faea5c706.png",
+    "static/media/borneo-foto.jpg": "/las-aventuras-del-abuelo/static/media/borneo-foto.ba12d66d9da1d3afb573.jpg",
+    "static/media/cover_Sarawak.png": "/las-aventuras-del-abuelo/static/media/cover_Sarawak.813a6befa3be808ac40e.png",
+    "static/media/cover_Wall.png": "/las-aventuras-del-abuelo/static/media/cover_Wall.4f46879ee4e1b8dbe85d.png",
+    "static/media/cover_Syria.png": "/las-aventuras-del-abuelo/static/media/cover_Syria.942f51836c7ccbdeec69.png",
+    "static/media/6_dice.png": "/las-aventuras-del-abuelo/static/media/6_dice.bfebfdaf54c7342137e4.png",
+    "static/media/4_dice.png": "/las-aventuras-del-abuelo/static/media/4_dice.6f977a2578f92acac301.png",
+    "static/media/3_dice.png": "/las-aventuras-del-abuelo/static/media/3_dice.bf40d0db23c733ee861d.png",
+    "static/media/5_dice.png": "/las-aventuras-del-abuelo/static/media/5_dice.b420c17462d80273a64b.png",
+    "static/media/2_dice.png": "/las-aventuras-del-abuelo/static/media/2_dice.9a857e4c59cf43cbd33c.png",
+    "static/media/1_dice.png": "/las-aventuras-del-abuelo/static/media/1_dice.cc6bb001b3751c28aaaa.png",
+    "index.html": "/las-aventuras-del-abuelo/index.html",
+    "main.fe258d5f.css.map": "/las-aventuras-del-abuelo/static/css/main.fe258d5f.css.map",
+    "main.d50c67ec.js.map": "/las-aventuras-del-abuelo/static/js/main.d50c67ec.js.map",
+    "453.7f8d9670.chunk.js.map": "/las-aventuras-del-abuelo/static/js/453.7f8d9670.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe258d5f.css",
+    "static/js/main.d50c67ec.js"
+  ]
+}
