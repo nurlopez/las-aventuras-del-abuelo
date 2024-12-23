@@ -14,8 +14,9 @@ import ReactMarkdown from "react-markdown";
 function BoardGame() {
     // States
     const [playerPosition, setPlayerPosition] = useState(1);
-    // const [skipNextTurn, setSkipNextTurn] = useState(false);
+    const [currentTileTitle, setCurrentTileTitle] = useState<string>("");
     const [currentTileDescription, setCurrentTileDescription] = useState<string>("");
+    const [currentTileEffectText, setCurrentTileEffectText] = useState<string | undefined>(undefined);
     const [currentTileEffect, setCurrentTileEffect] = useState<string | null | undefined>(null);
     const [isModalOpen, setIsModalOpen] = useState(false);
 
@@ -25,7 +26,9 @@ function BoardGame() {
     useEffect(() => {
         const currentTile = tilesData.tiles.find(tile => tile.id === playerPosition);
         if (currentTile) {
+            setCurrentTileTitle(currentTile.title);
             setCurrentTileDescription(currentTile.description);
+            setCurrentTileEffectText(currentTile.effectDescription);
             setCurrentTileEffect(currentTile.effect);
             setIsModalOpen(true);
         }
@@ -33,20 +36,10 @@ function BoardGame() {
 
     // Methods
     const handleDiceRoll = (rollValue: number) => {
-        // if (skipNextTurn) {
-        //     // If we skip, we just show a message in the modal and do nothing else
-        //     // setCurrentTileDescription("You skipped your turn!");
-        //     setCurrentTileEffect(null);
-        //     setIsModalOpen(true);
-        //     setSkipNextTurn(false); // (multiplayer not available yet   )
-        //     return;
-        // }
-
         setPlayerPosition((prev) => Math.min(prev + rollValue, 100));
     };
 
     const handleTileEvent = (description: string, effect: string | null | undefined) => {
-        // This will be triggered after the modal is closed
         if (effect) {
             const [action, value] = effect.split(":");
             switch (action) {
@@ -59,8 +52,6 @@ function BoardGame() {
                 case "skip":
                     break;
                 case "finish":
-                    // Show finishing message in a new modal
-                    setCurrentTileDescription("Congratulations! You've completed the journey!");
                     setCurrentTileEffect(null);
                     setIsModalOpen(true);
                     break;
@@ -71,16 +62,14 @@ function BoardGame() {
     };
 
     const closeModal = () => {
-        // After closing the modal, trigger the tile event
         const description = currentTileDescription;
         const effect = currentTileEffect;
 
-        // Clear modal states
         setIsModalOpen(false);
+        setCurrentTileTitle("");
         setCurrentTileDescription("");
         setCurrentTileEffect(null);
 
-        // Call the tile event handler
         if (description) {
             handleTileEvent(description, effect);
         }
@@ -114,7 +103,9 @@ function BoardGame() {
 
             <Modal isOpen={isModalOpen} onClose={closeModal}>
                 <div className="event-message markdown-content">
+                    <p className="journal-page-title">{currentTileTitle}</p>
                     <ReactMarkdown>{currentTileDescription}</ReactMarkdown>
+                    <ReactMarkdown className="markdown-tag">{currentTileEffectText}</ReactMarkdown>
                 </div>
             </Modal>
         </div>
