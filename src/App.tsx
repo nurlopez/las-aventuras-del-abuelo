@@ -7,7 +7,7 @@ import BoardGame from "./pages/BoardGame";
 
 function App() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/las-aventuras-del-abuelo">
             <Routes>
                 {/* The home route: */}
                 <Route path="/" element={<HomePage />} />
