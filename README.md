@@ -6,7 +6,6 @@
 - A modular boardgame with dynamic tiles.
 - Dice-roll mechanics to progress through the map.
 - Interactive events based on geographical features and anecdotes.
-- Beautifully illustrated map as the game board.
 
 ## Getting Started
 ### Prerequisites
@@ -37,9 +36,9 @@ This project is hosted using GitHub Pages. To deploy:
 `public/`: Static files, including the base HTML template.
 
 ## Future Features
-- Multiplayer mode for competitive play.
 - Enhanced animations and sound effects.
-- Additional maps for new adventures.
+- Multiplayer functionality
+- Additional journals for new adventures.
 - Contributing
 - Feel free to submit issues or feature requests. Contributions are welcome!
 
