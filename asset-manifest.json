@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/las-aventuras-del-abuelo/static/css/main.fe258d5f.css",
-    "main.js": "/las-aventuras-del-abuelo/static/js/main.a2202b61.js",
+    "main.js": "/las-aventuras-del-abuelo/static/js/main.260da75b.js",
     "static/js/453.7f8d9670.chunk.js": "/las-aventuras-del-abuelo/static/js/453.7f8d9670.chunk.js",
     "static/media/explorer_sitting.png": "/las-aventuras-del-abuelo/static/media/explorer_sitting.02b4a001582bcb652eb8.png",
     "static/media/diary_page.png": "/las-aventuras-del-abuelo/static/media/diary_page.5195a260292faea5c706.png",
@@ -17,11 +17,11 @@
     "static/media/1_dice.png": "/las-aventuras-del-abuelo/static/media/1_dice.cc6bb001b3751c28aaaa.png",
     "index.html": "/las-aventuras-del-abuelo/index.html",
     "main.fe258d5f.css.map": "/las-aventuras-del-abuelo/static/css/main.fe258d5f.css.map",
-    "main.a2202b61.js.map": "/las-aventuras-del-abuelo/static/js/main.a2202b61.js.map",
+    "main.260da75b.js.map": "/las-aventuras-del-abuelo/static/js/main.260da75b.js.map",
     "453.7f8d9670.chunk.js.map": "/las-aventuras-del-abuelo/static/js/453.7f8d9670.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe258d5f.css",
-    "static/js/main.a2202b61.js"
+    "static/js/main.260da75b.js"
   ]
 }
