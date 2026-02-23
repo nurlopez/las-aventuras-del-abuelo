@@ -13,11 +13,12 @@
 
 .modal-content {
     position: relative;
-    width: 353px;
-    max-height: 528px;
+    width: min(353px, 92vw);
+    max-height: min(528px, 85vh);
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
 
     /* Background image styling */
     background-image: url('../../assets/diary_page.png');
@@ -40,7 +41,8 @@
 /* NEW: Scrollable area inside the modal */
 .modal-body {
     /* This container ensures children (modal text) become scrollable if content is too long */
-    max-height: calc(528px - 40px);
+    max-height: calc(min(528px, 85vh) - 40px);
     overflow-y: auto;
     padding-right: 8px;
+    padding-left: 8px;
 }
