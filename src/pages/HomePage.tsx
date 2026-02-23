@@ -10,7 +10,6 @@ function HomePage() {
     return (
         <div className="home-container">
             <h1>Las aventuras del abuelo</h1>
-            <br/>
 
             <div className="journals-container">
 
@@ -28,19 +27,21 @@ function HomePage() {
                 <div className="journal-item">
                     <img
                         src={cover_wall_china}
-                        alt="Another Journal Cover"
-                        className="journal-cover"
+                        alt="Gran Muralla China Journal Cover"
+                        className="journal-cover locked"
                     />
                     <p className="journal-title">Gran Muralla China <br /> Jinshanling a Simatai, 2000.</p>
+                    <p className="coming-soon">Próximamente</p>
                 </div>
 
                 <div className="journal-item">
                     <img
                         src={cover_syria}
-                        alt="Future Journal Cover"
-                        className="journal-cover"
+                        alt="Desierto de Siria Journal Cover"
+                        className="journal-cover locked"
                     />
                     <p className="journal-title">El desierto de Siria<br />Palmira a Damasco, 2003.</p>
+                    <p className="coming-soon">Próximamente</p>
                 </div>
             </div>
         </div>

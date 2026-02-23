@@ -6,7 +6,7 @@ import Dice from "../components/dice/Dice";
 import Modal from "../components/modal/Modal";
 import tilesData from "../data/tiles.json";
 
-import abuelo from "../assets/explorer_sitting.png";
+import abuelo from "../assets/abuelo_writing.png";
 
 import "./BoardGame.css";
 import ReactMarkdown from "react-markdown";
@@ -88,16 +88,14 @@ function BoardGame() {
                 </div>
 
                 <div>
-                    <div className="dice-container">
-                        <Dice onRoll={handleDiceRoll} />
-                    </div>
-                    <p className="subtitle">Celda número: {playerPosition}</p>
+                    <Dice onRoll={handleDiceRoll} disabled={isModalOpen} />
+                    {/* <p className="subtitle">Celda número: {playerPosition}</p> */}
                 </div>
 
                 <img className='abuelo' src={abuelo} alt="abuelo" />
             </div>
 
-            <div className="board-container">
+            <div className="board-wrapper">
                 <Board playerPosition={playerPosition} />
             </div>
 

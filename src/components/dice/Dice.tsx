@@ -9,13 +9,27 @@ import dice4 from "../../assets/4_dice.png";
 import dice5 from "../../assets/5_dice.png";
 import dice6 from "../../assets/6_dice.png";
 
-const Dice = ({ onRoll }: { onRoll: (value: number) => void }) => {
+const Dice = ({ onRoll, disabled }: { onRoll: (value: number) => void; disabled?: boolean }) => {
     const [diceValue, setDiceValue] = useState(1);
+    const [isRolling, setIsRolling] = useState(false);
 
     const rollDice = () => {
-        const value = Math.floor(Math.random() * 6) + 1; // Random number between 1 and 6
-        setDiceValue(value);
-        onRoll(value); // Pass value to parent
+        if (isRolling || disabled) return;
+
+        const finalValue = Math.floor(Math.random() * 6) + 1;
+        setIsRolling(true);
+
+        let cycles = 0;
+        const interval = setInterval(() => {
+            setDiceValue(Math.floor(Math.random() * 6) + 1);
+            cycles++;
+            if (cycles >= 10) {
+                clearInterval(interval);
+                setDiceValue(finalValue);
+                onRoll(finalValue);
+                setIsRolling(false);
+            }
+        }, 80);
     };
 
     // Map dice value to respective images
@@ -36,11 +50,17 @@ const Dice = ({ onRoll }: { onRoll: (value: number) => void }) => {
                         key={value}
                         src={diceImages[value]}
                         alt={`Dice showing ${value}`}
-                        className={`dice-image ${diceValue === value ? "visible" : "hidden"}`}
+                        className={`dice-image ${diceValue === value ? `visible${isRolling ? " rolling" : ""}` : "hidden"}`}
                     />
                 ))}
             </div>
-            <button className="dice-button" onClick={rollDice}>Tirar el dado!</button>
+            <button
+                className="dice-button"
+                onClick={rollDice}
+                disabled={isRolling || disabled}
+            >
+                Tirar el dado!
+            </button>
         </div>
     );
 };
