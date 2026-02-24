@@ -109,11 +109,18 @@
     padding-bottom: 8px;
 }
 
-.markdown-tag {
-    font-size: 0.8em;
-    color: #333;
-    align-self: flex-end;
+.effect-badge {
+    margin-top: 12px;
+    padding: 2px 12px;
+    border-radius: 6px;
+    border-left: 4px solid;
+    font-size: 0.85em;
 }
+
+.effect-badge--forward  { background: #d4edda; border-color: #28a745; color: #155724; }
+.effect-badge--backward { background: #f8d7da; border-color: #dc3545; color: #721c24; }
+.effect-badge--skip     { background: #e2e3e5; border-color: #6c757d; color: #383d41; }
+.effect-badge--finish   { background: #cce5ff; border-color: #004085; color: #004085; }
 
 .board-wrapper {
     flex: 1;
