@@ -4,7 +4,7 @@
             "id": 1,
             "title": "Esta iba a ser mi última expedición en Sarawak.",
             "type": "start",
-            "description": "Desde comienzos de año, planifiqué esta aventura, motivado por mi fascinación por la meseta Usun Apau, un lugar de historia geológica única, y por la oportunidad de descubrir Bukit Selidang, un antiguo volcán lleno de misterios.",
+            "description": "Nos trasladaban a otro destino a finales del '92, y desde primeros de año le daba yo vueltas a cómo organizar una última expedición. El objetivo lo tenía claro; casi, casi desde el día mismo en que volvimos de Batu Lawi.\n\nDurante el otoño-invierno del '91, con las lluvias en pleno apogeo, me dediqué a revisar viejos informes geológicos en la biblioteca de la Compañía. Encontré uno, fechado en 1950, un reconocimiento del área entre las cabeceras de los ríos Baram y Rajang, con fotos aéreas en blanco y negro de la meseta del Usun Apau. Una me atrapó: en el centro, una pequeña colina cónica con una depresión circular, los restos de un antiguo volcán. Sin necesidad de leer el texto, supe hacia dónde iba a dirigir mis pasos en mi última travesía en Sarawak: hacia _Bukit Selidang_.",
             "effectDescription": "",
             "effect": null
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "title": "Pre-travesía",
             "type": "neutral",
-            "description": "El primer paso fue buscar ayuda para la organización y buenos mapas. Visité a Stanley Malang, pero tras semanas de intentos, confirmó que no podía ayudarnos. Mientras lidiábamos con el primer revés, recordé a Joseph, un kenyah del _Ulu_ Baram. Encontrarlo sería clave, pero no iba a ser fácil.",
+            "description": "Empecé por las oficinas de _Borneo Overland_, donde Stanley Malang nos había organizado la travesía anterior a Batu Lawi. Le expliqué los planes, le dejé una copia del mapa y quedamos en que se pondría en contacto conmigo.\n\nPasaron semanas con llamadas sin claridad: a veces Stanley estaba en las cuevas de Mulú, otras decían que aún no había conseguido contactar a nadie en la zona. Casi un mes después, al ver mi insistencia, me confesó que su contacto se había trasladado a Kuching. No nos podía ayudar. Estábamos a primeros de enero, cuatro meses antes de las fechas previstas. Se dice pronto, y pasa más rápido todavía.",
             "effectDescription": "**Retrocede 1 casilla.**",
             "effect": "backward:1"
         },
@@ -44,7 +44,7 @@
             "id": 6,
             "title": "Pre-travesía",
             "type": "neutral",
-            "description": "El plan era ambicioso: cruzar el Usun Apau, ascender Bukit Selidang y llegar al río Rajang. Hans y yo nos encargamos de las provisiones, mientras Andrew organizaba porteadores y Anthony coordinaba guías _penan_. A pesar de los retos, concretamos salarios y fechas para reunirnos en Long San, confiando en que todo saldría bien.",
+            "description": "El plan, en pocas palabras: encontrarnos con Andrew en _Long San_, alquilar canoas, subir el río Baram hasta el _Sungai Selio_, ascender al Usun Apau, atravesarlo de Este a Oeste subiendo a _Bukit Selidang_, y bajar a la cuenca del Rajang para encontrar alguna forma de volver a Miri.\n\nHans y yo nos encargábamos de las provisiones, salvo el arroz, que Andrew bajaría de su poblado. Concretamos salarios y nos citamos en _Long San_ el 29 de mayo. Estábamos a finales de febrero, no había medio de comunicación con el _ulu_, y nos jugábamos toda la travesía a que Andrew estuviera esperándonos.\n\nFácil decirlo, no tanto hacerlo, como se demostró más adelante.",
             "effectDescription": "**Avanza 1 casilla.**",
             "effect": "forward:1"
         },
@@ -52,7 +52,7 @@
             "id": 7,
             "title": "Pre-travesía",
             "type": "neutral",
-            "description": "Conseguir los permisos y mapas topográficos necesarios se convirtió en un desafío. Mis contactos habituales no pudieron ayudar debido a restricciones oficiales. Sin embargo, Hans y yo improvisamos, creando mapas básicos a partir de imágenes satelitales y ejemplos de sonar. Cada obstáculo aumentaba nuestra determinación.",
+            "description": "Los mapas topográficos detallados existían en el Servicio Topográfico de la Compañía, pero su distribución estaba prohibida por el Gobierno. En otras ocasiones, gracias a mi amistad con el jefe del departamento, había conseguido copias bajo cualquier excusa geológica. Esta vez no me salió bien el asunto; el amigo topógrafo me explicó que, debido a un par de casos recientes, habían recibido petición clara del Gobierno para restringir la distribución. Quizás ya me conocía demasiado.\n\nDiscutimos la situación con Hans y decidimos volver a la carga con diferente estrategia: Hans, sin yo inmiscuirme para nada, solicitó copia de los mapas como parte de un proyecto de estudio geológico por fotografía de satélite. Funcionó.",
             "effectDescription": "**Retrocede 2 casillas.**",
             "effect": "backward:2"
         },
@@ -60,7 +60,7 @@
             "id": 8,
             "title": "Pre-travesía",
             "type": "neutral",
-            "description": "Obtener permisos para viajar al interior era otro reto. Las restricciones eran estrictas, en parte debido a activistas como Bruno Manser, un biólogo suizo que defendió con valentía a los _penan_ contra las madereras. Su legado aún resuena en Sarawak, inspirando respeto y admiración.",
+            "description": "Obtener permisos para viajar al interior era otro reto. Las restricciones eran estrictas, en parte debido a activistas como Bruno Manser, un biólogo suizo que defendió con valentía a los _Penan_ contra las madereras. Su legado aún resuena en Sarawak, inspirando respeto y admiración.",
             "effectDescription": "**Retrocede 1 casilla.**",
             "effect": "backward:1"
         },
@@ -86,7 +86,7 @@
             "type": "neutral",
             "description": "**Equipo esencial para la travesía:**\n- Un par de buenas botas y zapatillas de deporte\n- Pantalones de campo, camisas con bolsillos y pantalones cortos\n- Mudas, calcetines, cinturones de cuero o lona\n- Sombrero, pañuelos de cuello, toalla y neceser\n- Impermeable y saco de dormir fino\n- Utensilios de comida, cantimplora, linterna con pilas\n- Pastillas de queroseno, soporte y cerillas\n- Papel higiénico, repelente de mosquitos y bolsas de plástico\n- Cuerdas, hamaca y cubiertas de plástico verde para las cabañas\n\nCada artículo fue elegido para asegurar comodidad y funcionalidad en la selva.",
             "effectDescription": "",
-            "effect": "null"
+            "effect": null
         },
         {
             "id": 12,
@@ -196,7 +196,7 @@
             "id": 25,
             "title": "Día 3",
             "type": "neutral",
-            "description": "La globalización lleva consigo la paradoja de conectar culturas mientras pone en peligro su esencia. En el _ulu_ de Sarawak, regiones remotas como esta sobreviven mientras las madereras se mantengan alejadas. Admiro profundamente a personas como el padre Jacobs y el hermano Albert, que han dedicado sus vidas a mejorar las condiciones de otros, resistiendo el peso de una civilización consumista. En su compromiso, encontramos una lección de humildad y responsabilidad.",
+            "description": "Era de admirar el trabajo de estos hombres. Habían dedicado sus vidas no solo a impartir su religión sino también a mejorar las condiciones de las gentes del _ulu_. Y todo por nada material; su beneficio estaba en la satisfacción moral de ver su obra.\n\nQuizás alguien piense que estas tribus estaban mejor antes de que nuestra civilización moderna les invadiese. Comparto totalmente esa opinión. Pero ya no hay impedimentos para movernos en nuestro globo terráqueo, y allí donde se puede hacer negocio llega la civilización consumista: pantalones vaqueros, motocicletas, Coca-Cola, gafas de sol. No hay manera de parar esta invasión.\n\nEl padre Jacobs y el hermano Albert llevan más de veinte años aquí. Les envidio.",
             "effectDescription": "",
             "effect": null
         },
@@ -301,8 +301,8 @@
             "title": "Día 4, tarde",
             "type": "neutral",
             "description": "La reunión concluyó con la aceptación del jefe para guiarnos a través del Usun Apau, aunque rechazó rotundamente acompañarnos a _Bukit Selidang_, citando distancias y tiempo como impedimentos. Hans y yo decidimos guardar nuestra intención de visitar Bukit Selidang para más adelante, confiando en nuestros mapas y brújulas para tomar la decisión en el momento adecuado.",
-            "effectDescription": "",
-            "effect": null
+            "effectDescription": "**Retrocede 1 casilla.**",
+            "effect": "backward:1"
         },
         {
             "id": 39,
@@ -324,7 +324,7 @@
             "id": 41,
             "title": "Día 5",
             "type": "neutral",
-            "description": "Turan demostró ser la pieza clave en nuestras negociaciones con Balan y los Penan, comprendiendo tanto su idioma como su forma de pensar. Su hermano Anthony, más reservado pero igualmente eficiente, formaba un equipo perfecto con él. Aunque su camiseta amarilla y gorrilla azul desentonaban en el entorno selvático, su capacidad para adaptarse al medio natural y cargar tanto como los _Penan_ reflejaba su compromiso.",
+            "description": "Turan procedía del mismo valle que Balan, tan solo unas decenas de kilómetros aguas arriba en el río Baram. Conocía a los _Penan_, su lengua, su forma de pensar, su forma de decidir; la persona ideal para las negociaciones. Si Hans y yo las hubiéramos dirigido, habríamos caído en la típica desconfianza occidental fruto del desconocimiento, o quizás peor, no habríamos puesto ningún reparo por miedo a parecer exigentes. Turan era quien nos hacía falta.\n\nAnthony, más callado, sólo hablaba si se le preguntaba. Formaba un buen tándem con su hermano y él mismo se había situado por detrás en la escala de responsabilidades; entendía que la edad era un grado. En la selva volvía a sus orígenes, cargando los mismos pesos que los _Penan_. Lo único que lo distinguía era la vestimenta: una camiseta amarilla que tenía a Hans bastante amargado y una gorrilla de béisbol azul que desentonaba en medio del verdor.",
             "effectDescription": "",
             "effect": null
         },
@@ -356,7 +356,7 @@
             "id": 45,
             "title": "Día 5",
             "type": "neutral",
-            "description": "Balan demostró su habilidad cazando una ardilla con su cerbatana a más de 30 metros, explicándonos con calma cómo el veneno actuaba y cómo preparar la carne para maximizar su calidad. Observamos fascinados mientras la selva seguía mostrándonos su abundancia y los conocimientos de los _Penan_ transformaban cada momento en una lección de supervivencia.",
+            "description": "Bruscamente, Balan se paró. Con una mano nos hizo señal de silencio; con la otra sacó una flecha diminuta del cartucho de bambú, la colocó en la cerbatana y, enfilándola hacia la bóveda de hojas a unos 30 metros de altura, sopló con fuerza. No nos dio tiempo a ver salir la flecha.\n\nBalan dejó la cerbatana apoyada en un árbol, sacó tabaco de la calabaza-contenedor de su cintura, se sentó y empezó a liarlo en un par de hojas secas. Entonces oímos un ruido seco, como de algo cayendo desde lo alto de un árbol grandioso, golpeando ramas, y el golpe apagado de un cuerpo contra el suelo. Chiulí salió disparado y volvió con una ardilla preciosa de unos 60 cm, _Callosciurus prevostii_.\n\nNi Hans ni yo habíamos visto absolutamente nada moverse en la dirección a la que Balan apuntaba. Se había sentado a liarse el cigarrillo porque sabía que el veneno tardaba unos minutos en hacer efecto. Con esta ardilla no le había dado tiempo a encenderlo.",
             "effectDescription": "",
             "effect": null
         },
@@ -389,8 +389,8 @@
             "title": "Día 5, noche",
             "type": "neutral",
             "description": "Durante la noche, me desperté con la extraña sensación de un hormigueo en el labio, solo para descubrir dos sanguijuelas prendidas, ya hinchadas por el tiempo que llevaban allí. La mañana siguiente nos recibió con la tranquilidad del barranco de Sungai Lobang, un paraje de cascadas y bolos de arenisca donde descansamos y nos refrescamos antes de reanudar la marcha hacia el Usun Apau.",
-            "effectDescription": "",
-            "effect": null
+            "effectDescription": "**Retrocede 1 casilla.**",
+            "effect": "backward:1"
         },
         {
             "id": 50,
@@ -420,7 +420,7 @@
             "id": 53,
             "title": "Día 7",
             "type": "neutral",
-            "description": "Mientras avanzábamos, no pude evitar reflexionar sobre el impacto de nuestras expediciones. A pesar de intentar minimizar nuestra huella, la caza y la construcción de cabañas tienen efectos inevitables en el entorno. Recordé las historias de Balan, quien años atrás había acompañado a otro geólogo a Bukit Selidang, recolectando muestras de roca. Me consuela pensar que lugares tan remotos como estos, aunque tocados por el hombre, aún pueden preservarse si las intenciones son respetuosas y conscientes.",
+            "description": "Mientras avanzábamos, no pude evitar reflexionar. A pesar de intentar minimizar nuestra huella, la caza y la construcción de cabañas dejan rastro. _Bukit Selidang_ era nuestra meta, sí, pero era apenas un punto físico que justificaba lo más valioso de la expedición: imbuirnos de la selva en su pureza y compartir unas semanas en este hábitat aislado, huéspedes de excepción de sus habitantes más privilegiados, los _Penan_.\n\nMirando en retrospectiva, uno solo de los días pasados con Balan y compañía valía ya por todos los _Bukit Selidangs_ del mundo.",
             "effectDescription": "",
             "effect": null
         },
@@ -436,9 +436,9 @@
             "id": 55,
             "title": "Día 7",
             "type": "neutral",
-            "description": "Avanzar se tornó un desafío constante debido a los tallos espinosos de ratán que obstruían nuestro paso. A pesar de los esfuerzos, recorrimos solo unos ocho kilómetros. Mientras discutíamos con Turan sobre la posibilidad de alcanzar Bukit Selidang, era evidente la reticencia de Balan. Reflexionando sobre nuestra expedición, comprendí que cada día con los _Penan_ valía más que cualquier destino específico. \n\nAl acampar cerca de un arroyo, el ritual de construir las cabañas y disfrutar de un té caliente bajo un cielo estrellado hizo que las penurias del día valieran la pena. La reconfortante rutina de limpiar las botas, cambiarse la ropa húmeda y remover las sanguijuelas otorgaba una satisfacción única, propia de la vida en la selva.",
-            "effectDescription": "",
-            "effect": null
+            "description": "Avanzar se tornó un desafío constante por los tallos espinosos de ratán. Hans, sin saber cómo, se las arregló para colarse en un foso de algo menos de un metro construido por un hilillo de agua en terreno arcilloso; lo sacamos mosqueado entre Turan y yo. A pesar del esfuerzo, recorrimos sólo unos ocho kilómetros.\n\nAl acampar cerca de un arroyo, el ritual de construir las cabañas y disfrutar de un té caliente hizo que las penurias del día valieran la pena. La rutina reconfortante de limpiar las botas, cambiarse la ropa húmeda y remover las sanguijuelas otorgaba una satisfacción única, propia de la vida en la selva.",
+            "effectDescription": "**Retrocede 1 casilla.**",
+            "effect": "backward:1"
         },
         {
             "id": 56,
@@ -452,7 +452,7 @@
             "id": 57,
             "title": "Día 8",
             "type": "neutral",
-            "description": "Durante la mañana, al revisar el mapa, unas fotos de mis cuatro hijas cayeron de mi mochila. Esto despertó la curiosidad del grupo, quienes se sorprendieron al saber que tres eran trillizas, ganándome algunos puntos entre ellos. Iniciamos la marcha con niebla densa, disfrutando de la frescura de la mañana, mientras Kusin y Sarang abrían camino y Balan cerraba la fila con su paso tranquilo.",
+            "description": "Al sacar uno de los mapas de la mochila, aparecieron también unas fotos de las niñas, que siempre llevaba conmigo. Chiulí las quiso ver y empezó a preguntarme sobre ellas; al poco, el resto se acercó a echar un vistazo. Se quedaron sorprendidos al comentarles que tres eran trillizas: no se lo acababan de creer. Creo que gané unos cuantos puntos en sus consideraciones personales.\n\nNos pusimos en marcha algo antes de las nueve, con niebla densa y cerrada. Como siempre al comenzar la jornada, Balan se quedó detrás, cerrando la marcha como aquel con quien no va la cosa, mientras Kusin y Sarang abrían camino.",
             "effectDescription": "",
             "effect": null
         },
@@ -476,7 +476,7 @@
             "id": 60,
             "title": "Día 8",
             "type": "neutral",
-            "description": "Casi no avanzábamos, y cuando lo hacíamos, sentíamos que era en la dirección errónea. Hans llevaba el mapa, brújula y altímetro, y discutíamos constantemente nuestra posición, mientras Balan, aparentemente ajeno a nuestras indicaciones, avanzaba con su propio criterio. En un momento clave, subió a un árbol y señaló un promontorio visible entre la bóveda selvática: Bukit Selidang. La emoción del grupo fue palpable al confirmar que estábamos en la dirección correcta.",
+            "description": "Casi no avanzábamos, y cuando lo hacíamos, parecía que era en la dirección errónea. Hans llevaba el mapa, brújula y altímetro; pasábamos el mensaje a Turan, Turan se lo trasladaba a Balan, Balan asentía, caminaba algo en esa dirección y, antes de darnos cuenta, volvía a coger el camino anterior. En nuestra ignorancia, teníamos la sensación de que no quería llevarnos a _Bukit Selidang_. Desconfiábamos. Merluzos.\n\nBalan empezó a cambiar de técnica: cuando más perdidos parecíamos estar, dejaba la cerbatana, el machete y la cesta en el suelo, se subía al primer árbol que encontraba y desaparecía entre el follaje. En una de esas nos llamó a gritos para que subiésemos. Me descolgué la mochila y subí. Al verme, apartó unas ramas y apuntó con el índice a un promontorio no muy lejano: _Bukit Selidang_, dijo. Casi me caí del árbol al sacar los prismáticos.",
             "effectDescription": "**Avanza 1 casilla.**",
             "effect": "forward:1"
         },
@@ -484,7 +484,7 @@
             "id": 61,
             "title": "Día 8",
             "type": "neutral",
-            "description": "Sentados tras identificar nuestro destino, contemplamos la selva en todo su esplendor. Entre _Nephentes_ carnívoras y troncos cubiertos de musgo, los ánimos se renovaron. Balan, con precisión experta, condujo la marcha a lo largo de una cresta que comenzaba a mostrar afloramientos volcánicos. Conforme la tarde avanzaba, truenos lejanos nos obligaron a buscar refugio. Perdimos algo de altura, pero Balan encontró un sitio perfecto cerca de un riachuelo. Construimos una cabaña sólida y funcional, con ingeniosas adaptaciones como una pequeña plataforma para secar ropa y protegernos del humo.",
+            "description": "Sentado, apoyado en la mochila, perdía la cuenta del número de especies vegetales que abarcaba con la vista a pocos metros alrededor mío. Unas hojas gigantescas de palmera del género _Licuala_ se doblaban suavemente enfrente; a mi derecha, varios insectos flotaban en el interior de un par de rojizas _Nephentes lenticulata_. Estábamos a 1220 metros. En momentos así, uno se olvida de los pesares del caminar, del avance lento, incluso del ratán.\n\nBalan condujo la marcha a lo largo de la cresta, que empezaba a mostrar afloramientos volcánicos. Truenos lejanos en la tarde nos obligaron a perder algo de altura, pero encontró un sitio perfecto cerca de un riachuelo y montamos cabaña.",
             "effectDescription": "",
             "effect": null
         },
@@ -501,22 +501,22 @@
             "title": "Día 8, noche",
             "type": "neutral",
             "description": "Tardamos poco en comer, pescado salado revuelto con arroz hervido; dos buenas raciones cada uno. Mientras la lluvia persistía, nuestras pocas pertenencias se secaban junto al fuego, y disfrutamos de una taza de té caliente. Lejos de cualquier civilización, en un rincón remoto de Borneo, nos sentíamos profundamente tranquilos y conectados con el entorno. Rodeados por los sonidos de la selva y protegidos por el ingenioso refugio que habíamos construido, compartimos un momento de calma absoluta. Balan rompió el silencio para contarnos sobre Bukit Selidang, un lugar envuelto en leyendas _Penan_ y conocido como el '**nido de donde proviene la luz de la luna**', un nombre que evocaba misterio y respeto.",
-            "effectDescription": "",
-            "effect": null
+            "effectDescription": "**Avanza 1 casilla.**",
+            "effect": "forward:1"
         },
         {
             "id": 64,
             "title": "Día 9",
             "type": "neutral",
             "description": "La mañana empezó con niebla densa, y retomamos el camino hacia la cresta. La lucha contra el ratán y la vegetación espinosa nos ralentizó, pero Balan, con su experiencia, guiaba nuestra marcha hacia el Norte. Descubrimos un barranquito de paredes limpias recubiertas por raíces aéreas, lo que nos permitió avanzar más rápido, aunque mojados por la corriente. A medida que ascendíamos, encontramos un cambio en la vegetación; los arbustos comenzaron a desaparecer, dando lugar a imponentes ejemplares de _Dipterocarpus_. La pendiente se hizo más pronunciada, pero nuestro esfuerzo fue recompensado cuando alcanzamos la cima de uno de los flancos del Bukit Selidang.",
-            "effectDescription": "",
-            "effect": null
+            "effectDescription": "**Retrocede 1 casilla.**",
+            "effect": "backward:1"
         },
         {
             "id": 65,
             "title": "Día 9",
             "type": "neutral",
-            "description": "Con la cima de Bukit Selidang finalmente alcanzada, Balan, sonriente pero silencioso, se sentó a observar mientras Hans y yo estudiábamos el mapa. El cráter del volcán se extendía ante nosotros, con los ríos Sungai Dapoi, Selio y Kolayan partiendo de sus flancos. Aunque tentados de descender al cráter y explorar el área, la prudencia prevaleció. Decidimos avanzar hacia el flanco sur para reunirnos con el grupo de Anthony. Al comunicar nuestra decisión, Balan, con una gran sonrisa, tomó la delantera y desapareció pendiente abajo. El descenso fue rápido pero accidentado, enfrentándonos a resbalones y rocas sueltas. Rodeamos cascadas impresionantes y finalmente encontramos un lugar para montar el campamento mientras se desataba una tormenta. El esfuerzo conjunto logró erigir un refugio eficiente.",
+            "description": "De repente, tropecé con Balan, que se había parado. Al levantar la cabeza, lo primero que observé fue su sonrisa; lo segundo, el horizonte abierto, sin barreras arbóreas. Estábamos a 1280 metros, en la cima de uno de los flancos del _Bukit Selidang_.\n\nEnfrente nuestro, la olla del cráter del antiguo volcán, con un cono más pequeño en el centro. Se reconocía perfectamente la forma circular de los flancos, y los cortes de los tres ríos que nacían del cráter: el _Sungai Dapoi_ hacia el Noroeste, el _Sungai Selio_ hacia el Este y el _Sungai Kolayan_ hacia el Sur. Lo celebramos con unos cacahuetes.\n\nNos atraía bajar al cráter y acampar allí, quedarnos un día reconociendo el área. Pero íbamos cortos de arroz y no sabíamos cuánto tardaríamos en reunirnos con el grupo de Anthony, así que, con algo de pena, decidimos avanzar hacia el Sur por el flanco del _Sungai Kolayan_. Al confirmárselo a Balan a través de Turan, soltó un _terima kasih_ saliéndole del alma, nos dio la mano a los dos y, visto y no visto, desapareció pendiente abajo como si le persiguiera el diablo.",
             "effectDescription": "",
             "effect": null
         },
@@ -556,7 +556,7 @@
             "id": 70,
             "title": "Día 11",
             "type": "neutral",
-            "description": "Descendíamos hacia los llanos. Poco a poco, nos impresionaba cómo comenzábamos a captar pequeños detalles del terreno, afloramientos rocosos y cambios de suelo, entendiendo el conocimiento que Balan tenía del entorno. Nuestra experiencia como geólogos nos ayudaba a interpretar este paisaje salvaje, al igual que mi tiempo en los desiertos de Omán me enseñó a orientarme basándome en señales casi imperceptibles. Balan, siempre al frente, nos condujo con precisión hasta el árbol marcado con señales que él mismo había dejado como indicativo. A medida que avanzábamos, nos dispersamos un poco; Hans, algo rezagado, iba acompañado por Anthony y Turan, mientras que Neh y Chiulí avanzaban a su ritmo, entonando canciones que rompían el silencio de la selva.",
+            "description": "Bajábamos por los llanos. Poco a poco, empezábamos a captar los pequeños detalles del terreno, los afloramientos rocosos, los cambios de suelo; entendíamos el conocimiento que Balan tenía de su territorio. Quizás nuestra profesión de geólogos nos facilitaba la percepción de esos pequeños relieves.\n\nMe recordó a mis travesías, años antes, por los desiertos del Sultanato de Omán. Un montoncito de piedras por aquí, una roca granítica colorada por allá, un tubo de escape oxidado de algún _pick-up_ beduino por el otro lado: eran indicadores claros. Mis compañeros se extrañaban de que pudiera orientarme sin GPS; yo les respondía que llevaba un JPS, _José's Positioning System_, tocándome la nariz.\n\nHans iba algo rezagado con Anthony y Turan, mientras Neh y Chiulí avanzaban a su ritmo, entonando canciones que rompían el silencio de la selva.",
             "effectDescription": "",
             "effect": null
         },
@@ -565,8 +565,8 @@
             "title": "Día 11",
             "type": "neutral",
             "description": "La selva se abrió revelando paredes rocosas y una alfombra verde a sus pies. En un claro, Balan señaló un par de majestuosos _hornbills_, símbolos vivientes de Sarawak. Observamos los ejemplares de _Buceros rhinoceros_ con sus colas blancas y picos coloridos. Mientras descansábamos, un gibón curioso se detuvo al vernos comer cacahuetes. Poco después, llegamos al Sungai Luar, cruzándolo con mochilas sobre la cabeza. Un resbalón me sumergió parcialmente, pero salvé la cámara de mojarse. La marcha se tornó ardua en las marismas del río, con lodo y sanguijuelas ralentizando el paso, especialmente para Hans, quien luchaba contra su malestar. A pesar del cansancio, seguimos avanzando, cubiertos de barro y agotados.",
-            "effectDescription": "**Retrocede 1 casilla.**",
-            "effect": "backward:1"
+            "effectDescription": "**Avanza 1 casilla.**",
+            "effect": "forward:1"
         },
         {
             "id": 72,
@@ -596,7 +596,7 @@
             "id": 75,
             "title": "Día 12",
             "type": "neutral",
-            "description": "Reflexioné sobre la falta de interés de muchos compañeros en adentrarse en el interior de Borneo, el _ulu_, y recordé las dificultades que enfrentaron los geólogos en las primeras expediciones cartográficas. Mapas detallados, como los realizados entre 1954 y 1955, se construyeron midiendo secciones a lo largo de ríos y extrapolando datos en áreas inexploradas. Se dependía de tribus locales como los _kenyas_, _kayans_ y _penans_ para labores de transporte y guía. Los _penans_, fuertes y conocedores de la selva, resultaron imprescindibles, aunque al principio preferían pagos en especias antes de aceptar dinero. Recordé también un incidente de 1928, cuando un jefe local prohibió golpear rocas durante un estudio en el río Tinjar, argumentando que molestaban a los espíritus de sus antepasados. El geólogo enfrentó un desafío cultural, típico de aquellos que exploraban estas tierras.",
+            "description": "Pensaba en mis compañeros geólogos. De casi cien que trabajábamos en Miri en aquellos días, los que aguantarían una travesía como ésta se podían contar con los dedos de una mano. ¿Quién cambiaría una cerveza fresquita tras un partido de tenis, una carrera por la playa o una competición de vela por una sesión de limpieza de sanguijuelas y la construcción de una choza tras diez horas de marcha por terrenos inhóspitos, con cuatro cacahuetes en el estómago?\n\nPocos, creo yo; una lástima. Aunque, quizás egoístamente, me alegra ese poco interés general por perderse en el _ulu_: nos deja a los más aventureros disfrutar de estos terrenos vírgenes, casi deshabitados, donde uno se enfrenta a la naturaleza en su estado más primitivo.",
             "effectDescription": "**Avanza 2 casillas.**",
             "effect": "forward:2"
         },
@@ -604,7 +604,7 @@
             "id": 76,
             "title": "Día 12",
             "type": "neutral",
-            "description": "Reflexioné sobre cómo las comodidades modernas han reducido nuestra capacidad de enfrentar esfuerzos prolongados. A pesar de las adversidades de nuestra expedición, Hans y yo sabíamos que pronto regresaríamos al campamento en Miri, donde el confort nos esperaba. Recordé cómo pocos de nuestros colegas en Miri estarían dispuestos a cambiar las actividades deportivas y cervezas frías por días de marcha extenuante, construcción de chozas y limpieza de sanguijuelas. Aunque egoístamente me alegraba del escaso interés en explorar el _ulu_, también comprendía que esto mantenía estas tierras en su estado prístino. Al mismo tiempo, pensaba en cómo estudios geológicos más detallados podrían revalorizar estas áreas, quizás con un impacto irreversible.",
+            "description": "Balan había participado, años atrás, en la expedición de H. A. Jordi a _Bukit Selidang_, recogiendo muestras de roca. Según Jordi, al principio los _Penan_ preferían el pago en especias (ropas, tabaco, pescado ahumado, todo tipo de provisiones); con el tiempo se fueron sofisticando y empezaron a pedir cartuchos de escopeta, e incluso dinero.\n\nRecordaba otra anécdota de aquellos pioneros. En un estudio en la cabecera del río _Tinjar_, efectuado por O. Wilhem en 1928, los geólogos estaban recogiendo muestras a golpes de martillo. Uno de los jefes locales se presentó con algunos hombres y les prohibió continuar: los golpes molestaban a los espíritus de sus antepasados. Fue un asunto delicado: no había otra forma de recoger muestras si no era a base de martillazos. No sé cómo solucionaron lo del muestreo.",
             "effectDescription": "",
             "effect": null
         },
@@ -628,7 +628,7 @@
             "id": 79,
             "title": "Día 12, noche",
             "type": "neutral",
-            "description": "La lluvia cesaba mientras los siete compartíamos té y chocolate bajo la choza de Balan. La calma se rompió con la llegada repentina de Kusih y Sarang, acompañados por otro _penan_, quien nos invitó a pasar la noche en su asentamiento río abajo. Decidimos quedarnos, mientras Balan y los suyos se unieron al grupo con alegría palpable, partiendo en su canoa al son de cantos tradicionales. Observé desde una rama sobre el río. Pensé en Balan, su liderazgo impecable y su influencia en el éxito de nuestra travesía. A pesar de las diferencias de idioma, había logrado una conexión profunda y significativa con nosotros, guiándonos siempre con sabiduría y cuidado. Mis pensamientos fueron interrumpidos por Anthony, quien me llamó desde la orilla, devolviéndome al campamento iluminado por el resplandor del fuego.",
+            "description": "La lluvia cesaba mientras los siete compartíamos té y chocolate bajo la choza de Balan. La calma se rompió con la llegada repentina de Kusih y Sarang, acompañados por otro _Penan_, quien nos invitó a pasar la noche en su asentamiento río abajo. Decidimos quedarnos, mientras Balan y los suyos se unieron al grupo con alegría palpable, partiendo en su canoa al son de cantos tradicionales. Observé desde una rama sobre el río. Pensé en Balan, su liderazgo impecable y su influencia en el éxito de nuestra travesía. A pesar de las diferencias de idioma, había logrado una conexión profunda y significativa con nosotros, guiándonos siempre con sabiduría y cuidado. Mis pensamientos fueron interrumpidos por Anthony, quien me llamó desde la orilla, devolviéndome al campamento iluminado por el resplandor del fuego.",
             "effectDescription": "",
             "effect": null
         },
@@ -636,7 +636,7 @@
             "id": 80,
             "title": "Día 13",
             "type": "neutral",
-            "description": "Tras un desayuno y preparativos apresurados, nos encontramos con Kusih, Sarang y un nuevo amigo _penan_ quienes trajeron dos largas canoas de una pieza. Navegamos sin motores, rodeados por la pureza del entorno selvático. Risas y cantos marcaron el descenso por el río, mientras nos maravillábamos de la calma de este rincón virgen de Sarawak. Al llegar al claro del campamento de los _penan_, fuimos recibidos por niños curiosos y perros vigilantes, con una mezcla de sorpresa y alegría.",
+            "description": "Tras un desayuno y preparativos apresurados, nos encontramos con Kusih, Sarang y un nuevo amigo _penan_ quienes trajeron dos largas canoas de una pieza. Navegamos sin motores, rodeados por la pureza del entorno selvático. Risas y cantos marcaron el descenso por el río, mientras nos maravillábamos de la calma de este rincón virgen de Sarawak. Al llegar al claro del campamento de los _Penan_, fuimos recibidos por niños curiosos y perros vigilantes, con una mezcla de sorpresa y alegría.",
             "effectDescription": "",
             "effect": null
         },
@@ -644,7 +644,7 @@
             "id": 81,
             "title": "Día 13",
             "type": "neutral",
-            "description": "En Long Menapan, observamos cómo cuatro familias _penan_ habían creado un nuevo asentamiento. La convivencia estaba llena de perros curiosos y risueños. Balan relató nuestra travesía a Bukit Selidang mientras Kusih y Sarang organizaban las cestas. Partimos en dos canoas repletas con 13 pasajeros, incluidos una joven pareja y su equipaje. Las embarcaciones, cargadas al límite, eran acompañadas por cantos de Sarang y Neh y la presencia de un águila pescadora de cabeza gris que planeó ante nosotros, un espectáculo que subrayó la magia de nuestro entorno.",
+            "description": "En Long Menapan, observamos cómo cuatro familias _Penan_ habían creado un nuevo asentamiento. La convivencia estaba llena de perros curiosos y risueños. Balan relató nuestra travesía a Bukit Selidang mientras Kusih y Sarang organizaban las cestas. Partimos en dos canoas repletas con 13 pasajeros, incluidos una joven pareja y su equipaje. Las embarcaciones, cargadas al límite, eran acompañadas por cantos de Sarang y Neh y la presencia de un águila pescadora de cabeza gris que planeó ante nosotros, un espectáculo que subrayó la magia de nuestro entorno.",
             "effectDescription": "",
             "effect": null
         },
@@ -652,7 +652,7 @@
             "id": 82,
             "title": "Día 13",
             "type": "neutral",
-            "description": "Navegábamos sin prisa, empapados en la calma y el ambiente salvaje, mientras los remeros sorteaban rápidos y árboles caídos. Al llegar a la isla de _King Leh Jian_, el mítico lugar de origen de los _penan_. Kusih y Sarang remarcaron su conexión con la tierra ancestral, explorando sus orillas con reverencia. Más adelante, paramos para estirar las piernas y conocer a pescadores locales mientras Balan retomaba sus narraciones sobre Bukit Selidang, evocando el mismo interés de siempre. La paz se quebró abruptamente al avistar marcas de una maderera en un árbol; la visión de los límites entre lo sagrado y la devastación nos devolvió, como un hachazo, a la realidad.",
+            "description": "Navegábamos sin prisa, empapados en la calma y el ambiente salvaje, mientras los remeros sorteaban rápidos y árboles caídos. Al llegar a la isla de _King Leh Jian_, el mítico lugar de origen de los _Penan_. Kusih y Sarang remarcaron su conexión con la tierra ancestral, explorando sus orillas con reverencia. Más adelante, paramos para estirar las piernas y conocer a pescadores locales mientras Balan retomaba sus narraciones sobre Bukit Selidang, evocando el mismo interés de siempre. La paz se quebró abruptamente al avistar marcas de una maderera en un árbol; la visión de los límites entre lo sagrado y la devastación nos devolvió, como un hachazo, a la realidad.",
             "effectDescription": "",
             "effect": null
         },
@@ -660,8 +660,8 @@
             "id": 83,
             "title": "Día 13",
             "type": "neutral",
-            "description": "Llegamos a Long Luar, un poblado _penan_ fijo, y fuimos recibidos con una mezcla de curiosidad y temor. Los niños y mujeres huyeron gritando “¡tuan!” al vernos, recordatorios de historias coloniales que aún habitaban sus recuerdos. Balan, en cambio, fue recibido con abrazos emotivos por amigos y familiares de su juventud, algunos ancianos que conservaban tradiciones intactas, como el corte de pelo _penan_ y colgantes de guerra. Tras las presentaciones, el jefe del poblado nos ofreció un espacio para descansar y organizó nuestra salida al día siguiente, aunque los detalles del trayecto seguían algo confusos. Compartimos una cena abundante de tapioca, arroz y pescado, mientras Balan narraba con orgullo nuestra expedición, rodeado de su comunidad.",
-            "effectDescription": "**Avanza 3 casilla.**",
+            "description": "Llegamos a Long Luar, un poblado _Penan_ fijo, y fuimos recibidos con una mezcla de curiosidad y temor. Los niños y mujeres huyeron gritando “¡tuan!” al vernos, recordatorios de historias coloniales que aún habitaban sus recuerdos. Balan, en cambio, fue recibido con abrazos emotivos por amigos y familiares de su juventud, algunos ancianos que conservaban tradiciones intactas, como el corte de pelo _penan_ y colgantes de guerra. Tras las presentaciones, el jefe del poblado nos ofreció un espacio para descansar y organizó nuestra salida al día siguiente, aunque los detalles del trayecto seguían algo confusos. Compartimos una cena abundante de tapioca, arroz y pescado, mientras Balan narraba con orgullo nuestra expedición, rodeado de su comunidad.",
+            "effectDescription": "**Avanza 3 casillas.**",
             "effect": "forward:3"
         },
         {
@@ -669,14 +669,14 @@
             "title": "Día 14",
             "type": "neutral",
             "description": "Pasamos la noche en la habitación del jefe de Long Luar, acompañados por los sonidos de gallos, perros y niños que interrumpían nuestro descanso. Al amanecer, Hans y yo bajamos al río para un baño helado bajo la neblina matinal del Sungai Plieran. Mientras nos preparábamos para la marcha, notamos la ausencia del jefe, suponiendo que organizaba las canoas. Aprovechamos para ajustar cuentas con Balan y su grupo, quienes se habían arreglado con ropa limpia, destacando Balan con su camisa de batik y pantalones negros, mostrándonos una faceta diferente, aunque su sonrisa seguía siendo la misma.",
-            "effectDescription":"",
+            "effectDescription": "",
             "effect": null
         },
         {
             "id": 85,
             "title": "Día 14",
             "type": "neutral",
-            "description": "Ajustamos las cuentas con Balan y su grupo, pagando 20 dólares malayos diarios a cada uno, excepto Chiulí, quien recibió 15. A pesar de que ya les habíamos adelantado algo en Long Bih, decidimos darles un extra en reconocimiento por su dedicación, lo que Balan agradeció con una sonrisa. Repartimos los pocos regalos restantes, incluidos relojes para Neh, Kusih y Sarang. Aprovechamos la espera por el jefe para tomar unas fotos de despedida y nos sentamos en la terraza, observando la calma mientras el día se desarrollaba.",
+            "description": "Mientras esperábamos al jefe, aprovechamos para ajustar las cuentas con Balan y los suyos. Se habían mudado, todos con ropa limpia que no sé de dónde la habían sacado; sobre todo Balan, con una camisa de _batik_ y pantalones largos negros. Parecía otro Balan, aunque su sonrisa y su mirada nos lo devolvían como lo conocíamos.\n\nPagamos 20 dólares malayos diarios por persona (15 a Chiulí), como si no les hubiéramos adelantado nada en _Long Bih_. Balan, honestamente, al ver lo que le dábamos, nos lo recordó; le comentamos nuestra satisfacción por el trabajo de todos y nuestra obligación moral de darles un extra. Sonrió agradecido y lo dejamos así. Repartimos los pocos regalos que nos quedaban: a Neh, Kusih y Sarang les tocaron los relojes.\n\nMientras nos hacíamos unas fotos de despedida, Balan se acercó. Rebuscó en su cesta y, de dentro de un trapo, sacó la cuchara que había estado labrando un par de días antes. Con un cuchillo pequeño escribió su nombre en el reverso y me la dio. Era su recuerdo.",
             "effectDescription": "",
             "effect": null
         },
@@ -692,15 +692,15 @@
             "id": 87,
             "title": "Día 14",
             "type": "neutral",
-            "description": "El mitin del jefe de Long Plieran argumentó que los extranjeros eran hipócritas al criticar la explotación forestal mientras disfrutaban de las comodidades de sus países. Aunque algunos puntos eran válidos, Hans y yo habíamos sido respetuosos en nuestras conversaciones, evitando dar lecciones y enfocándonos en el intercambio de ideas sobre la tala regulada y la repoblación forestal. \n\nReflexioné sobre el equilibrio necesario: los _penan_ tienen derecho a mejorar su calidad de vida, pero con prácticas sostenibles. Sin una regulación estricta y un compromiso real de las compañías madereras y autoridades locales, el progreso sería desigual y dañino. Es evidente que ni los defensores radicales ni los promotores indiscriminados de la tala tienen la solución completa.",
-            "effectDescription": "",
-            "effect": null
+            "description": "El mitin del jefe de Long Plieran argumentó que los extranjeros eran hipócritas al criticar la explotación forestal mientras disfrutaban de las comodidades de sus países. Aunque algunos puntos eran válidos, Hans y yo habíamos sido respetuosos en nuestras conversaciones, evitando dar lecciones y enfocándonos en el intercambio de ideas sobre la tala regulada y la repoblación forestal. \n\nReflexioné sobre el equilibrio necesario: los _Penan_ tienen derecho a mejorar su calidad de vida, pero con prácticas sostenibles. Sin una regulación estricta y un compromiso real de las compañías madereras y autoridades locales, el progreso sería desigual y dañino. Es evidente que ni los defensores radicales ni los promotores indiscriminados de la tala tienen la solución completa.",
+            "effectDescription": "**Retrocede 1 casilla.**",
+            "effect": "backward:1"
         },
         {
             "id": 88,
             "title": "Día 14",
             "type": "neutral",
-            "description": "Tras el mitin del jefe de Long Plieran y el intento de politizar nuestro regreso, la tensión en el poblado se hizo palpable. Hans, con diplomacia, logró negociar directamente con el jefe de Long Luar, mientras Anthony y Balan aclararon nuestra disposición a pagar por cualquier servicio, como siempre habíamos hecho. Finalmente, gracias a la intervención de Balan, un grupo de jóvenes _penan_ accedió a transportarnos, aunque no sabíamos exactamente hasta dónde. La situación, aunque resuelta parcialmente, dejó claro el impacto de las dinámicas políticas locales en nuestra expedición.",
+            "description": "Tras el mitin del jefe de Long Plieran y el intento de politizar nuestro regreso, la tensión en el poblado se hizo palpable. Hans, con diplomacia, logró negociar directamente con el jefe de Long Luar, mientras Anthony y Balan aclararon nuestra disposición a pagar por cualquier servicio, como siempre habíamos hecho. Finalmente, gracias a la intervención de Balan, un grupo de jóvenes _Penan_ accedió a transportarnos, aunque no sabíamos exactamente hasta dónde. La situación, aunque resuelta parcialmente, dejó claro el impacto de las dinámicas políticas locales en nuestra expedición.",
             "effectDescription": "",
             "effect": null
         },
@@ -708,7 +708,7 @@
             "id": 89,
             "title": "Día 14",
             "type": "neutral",
-            "description": "Con nuestras pertenencias cargadas en las canoas, nos despedimos de Balan y los suyos, quienes nos agitaron los brazos desde la orilla mientras partíamos. La remada contra corriente comenzó con incertidumbre, pero rápidamente se convirtió en una competencia animada entre las dos canoas. Los _penan_ jóvenes nos guiaron con energía, manteniendo el ritmo con sus voces mientras avanzábamos con fuerza. Hicimos una breve parada en una granja donde las parejas con los bebés desembarcaron. Aunque los remeros sugirieron quedarse allí hasta el día siguiente, Hans y yo insistimos en continuar. Afortunadamente, accedieron sin tomar a mal nuestro rechazo, y retomamos el trayecto, renovando nuestro esfuerzo en esta travesía llena de desafíos y compañerismo.",
+            "description": "Con nuestras pertenencias cargadas en las canoas, nos despedimos de Balan y los suyos, quienes nos agitaron los brazos desde la orilla mientras partíamos. La remada contra corriente comenzó con incertidumbre, pero rápidamente se convirtió en una competencia animada entre las dos canoas. Los _Penan_ jóvenes nos guiaron con energía, manteniendo el ritmo con sus voces mientras avanzábamos con fuerza. Hicimos una breve parada en una granja donde las parejas con los bebés desembarcaron. Aunque los remeros sugirieron quedarse allí hasta el día siguiente, Hans y yo insistimos en continuar. Afortunadamente, accedieron sin tomar a mal nuestro rechazo, y retomamos el trayecto, renovando nuestro esfuerzo en esta travesía llena de desafíos y compañerismo.",
             "effectDescription": "",
             "effect": null
         },
@@ -716,7 +716,7 @@
             "id": 90,
             "title": "Día 14",
             "type": "neutral",
-            "description": "A medida que remontábamos el rio, el sonido del silencio se transformó en un fragor imponente: un conjunto de rápidos y cascadas bloqueaba nuestro avance. Los _penan_ , sin inmutarse, dirigieron las canoas hacia la orilla izquierda. Descargamos los bultos mientras ellos subían las largas y pesadas embarcaciones por entre las rocas resbaladizas. Nos asombraba el origen de esta barrera natural en un terreno tan llano. Sin tiempo para comprenderlo, un trueno cercano nos apremió a continuar. Guiados por un joven _penan_, exploramos pequeños afluentes hasta que finalmente hallamos una pista forestal, nuestra conexión con la _civilización_.",
+            "description": "A medida que remontábamos el rio, el sonido del silencio se transformó en un fragor imponente: un conjunto de rápidos y cascadas bloqueaba nuestro avance. Los _Penan_ , sin inmutarse, dirigieron las canoas hacia la orilla izquierda. Descargamos los bultos mientras ellos subían las largas y pesadas embarcaciones por entre las rocas resbaladizas. Nos asombraba el origen de esta barrera natural en un terreno tan llano. Sin tiempo para comprenderlo, un trueno cercano nos apremió a continuar. Guiados por un joven _Penan_, exploramos pequeños afluentes hasta que finalmente hallamos una pista forestal, nuestra conexión con la _civilización_.",
             "effectDescription": "",
             "effect": null
         },
@@ -724,7 +724,7 @@
             "id": 91,
             "title": "Día 14",
             "type": "neutral",
-            "description": "Con la lluvia persistente sobre nosotros, seguimos al joven guía por un sendero que serpenteaba entre la maleza. El silencio de la selva se había vuelto pesado, roto únicamente por el crujir de nuestras botas y el murmullo de los riachuelos que cruzábamos. Pero todo cambió al toparnos con un arroyo turbio y un sonido metálico en la distancia: el eco de maquinaria. Hans y yo intercambiamos miradas de resignación; sabíamos que este momento llegaría. Avanzamos con pasos más lentos, cada uno sumido en sus pensamientos, hasta que emergimos en un claro destrozado, donde una imponente _bulldozer_ amarillo se alzaba como un símbolo de la modernidad invadiendo lo intocado. Su operador, un _iban_, nos observaba incrédulo, dejando el motor en silencio mientras otros hombres salían de una casamata cercana. Era un encuentro de dos mundos que apenas se entendían. Mientras pagábamos a los _penan_ que nos habían acompañado, sus caras, iluminadas por amplias sonrisas, mostraban alivio y gratitud. A pesar del cansancio y la melancolía, compartimos con ellos un último momento de conexión, sabiendo que el regreso al ruido y al ritmo de la civilización ya no podía postergarse.",
+            "description": "Con la lluvia persistente sobre nosotros, seguimos al joven guía por un sendero que serpenteaba entre la maleza. El silencio de la selva se había vuelto pesado, roto únicamente por el crujir de nuestras botas y el murmullo de los riachuelos que cruzábamos. Pero todo cambió al toparnos con un arroyo turbio y un sonido metálico en la distancia: el eco de maquinaria. Hans y yo intercambiamos miradas de resignación; sabíamos que este momento llegaría. Avanzamos con pasos más lentos, cada uno sumido en sus pensamientos, hasta que emergimos en un claro destrozado, donde una imponente _bulldozer_ amarillo se alzaba como un símbolo de la modernidad invadiendo lo intocado. Su operador, un _iban_, nos observaba incrédulo, dejando el motor en silencio mientras otros hombres salían de una casamata cercana. Era un encuentro de dos mundos que apenas se entendían. Mientras pagábamos a los _Penan_ que nos habían acompañado, sus caras, iluminadas por amplias sonrisas, mostraban alivio y gratitud. A pesar del cansancio y la melancolía, compartimos con ellos un último momento de conexión, sabiendo que el regreso al ruido y al ritmo de la civilización ya no podía postergarse.",
             "effectDescription": "",
             "effect": null
         },
@@ -733,7 +733,7 @@
             "title": "Día 14, tarde",
             "type": "neutral",
             "description": "Empapados pero decididos, aceptamos la oferta del maquinista _iban_ de llevarnos en su bulldozer hacia el campamento forestal. Hans y Turan se acomodaron en la cabina junto al conductor, mientras Anthony y yo trepamos al techo, expuestos al aire libre. Al arrancar la máquina, una nube de humo negro envolvió nuestro breve frescor, reemplazándolo con el olor acre de escape. Avanzamos por la pista forestal, enfrentándonos a cada barranco y puente improvisado con el corazón en la garganta. Desde nuestra altura, Anthony y yo observábamos la majestuosa selva mientras nos agarrábamos a las barras de hierro, listos para saltar si la máquina comenzaba a volcar en sus maniobras. \n\nLa lluvia nos sorprendió con una intensidad torrencial, empapándonos en segundos y cubriendo los sonidos del motor con el estruendo de truenos y cascadas. En la penumbra creciente, un foco solitario iluminaba tenuemente el camino, perdiéndose a menudo en la negrura de los barrancos. Cada cruce de un puente parecía un salto al vacío, con la oruga de la máquina apenas tocando el borde. La tormenta convirtió el avance en un ejercicio de resistencia y nervios, mientras la bulldozer se abría paso lenta pero inexorablemente hacia el refugio prometido.",
-            "effectDescription":"",
+            "effectDescription": "",
             "effect": null
         },
         {
@@ -796,7 +796,7 @@
             "id": 100,
             "title": "Fin de la travesía",
             "type": "finish",
-            "description": "Conocí a Hans gracias a Arturo van Vliet, un compañero geólogo que vio afinidades entre nosotros. Desde ese primer encuentro, nuestras salidas evolucionaron de excursiones cortas a expediciones de semanas, compartiendo afinidades y aprendiendo a manejar nuestras diferencias. Los momentos difíciles se daban en las jornadas más exigentes; los mejores, al amanecer o al disfrutar juntos de un baño relajante tras un día duro. Sentados en silencio, agradecimos mutuamente lo compartido. Un murciélago interrumpió brevemente nuestra introspección, y entre sonrisas, volvimos a la calma interior. La noche pasó fugaz, despertándonos con el pitido del 'express-boat', que nos llevaría hacia el final de nuestra travesía.",
+            "description": "La noche era tranquila y nos invitó al descanso. Hans y yo volvimos a sentarnos en la terraza. El cielo, parcialmente estrellado. Se oía el paso del río pocos metros más abajo, alguna voz suelta de las habitaciones, el zumbido seco de los murciélagos cazando insectos cerca de la luz esquinera.\n\nHablamos poco, pero nos dijimos mucho. Había conocido a Hans años atrás, en una cena de un amigo común, Arturo van Vliet. Nos dimos cuenta enseguida de que teníamos cosas en común; la más sobresaliente, no encontrarnos cómodos con las multitudes del campamento. De ahí salieron las excursiones cortas, luego los fines de semana, luego las semanas enteras. Los malos ratos venían en las jornadas más duras, los buenos al amanecer o en el baño nocturno del río. Aprendimos y disfrutamos de ambos.\n\nUn murciélago enorme pasó batiendo fuertemente los brazos, casi tocándonos. Nos echamos una mirada, sonreímos y seguimos buscando en la oscuridad de nuestro interior, envueltos por la del exterior.\n\nLa noche fue corta y se despidió con el pitido del _express-boat_ al reemprender la marcha desde el embarcadero, después de habernos recogido, camino de Bintulu...",
             "effectDescription": "",
             "effect": null
         }
