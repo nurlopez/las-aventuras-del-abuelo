@@ -22,10 +22,13 @@ function BoardGame() {
     const [isModalOpen, setIsModalOpen] = useState(false);
 
     const diceRef = useRef<DiceRef>(null);
+    // Tiles whose effect already fired during the current dice-roll chain — prevents forward/backward loops between adjacent effect tiles.
+    const firedThisRoll = useRef<Set<number>>(new Set());
 
     // Token animation: step one tile toward target every 150ms, then open modal
     useEffect(() => {
         if (displayPosition === targetPosition) {
+            if (firedThisRoll.current.has(displayPosition)) return;
             const tile = tilesData.tiles.find(t => t.id === displayPosition);
             if (tile) {
                 setCurrentTileTitle(tile.title);
@@ -43,6 +46,7 @@ function BoardGame() {
 
     // Methods
     const handleDiceRoll = (rollValue: number) => {
+        firedThisRoll.current = new Set();
         setTargetPosition((prev) => Math.min(prev + rollValue, 100));
     };
 
@@ -74,8 +78,9 @@ function BoardGame() {
         setCurrentTileDescription("");
         setCurrentTileEffect(null);
 
+        firedThisRoll.current.add(displayPosition);
         handleTileEvent(effect);
-    }, [currentTileEffect, handleTileEvent]);
+    }, [currentTileEffect, displayPosition, handleTileEvent]);
 
     // Keyboard navigation
     useEffect(() => {
